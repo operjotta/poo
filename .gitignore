@@ -1,0 +1,11 @@
+*~
+.idea
+.vscode
+.eclipse
+nb-configuration.xml
+
+out
+out/*
+target
+target/*
+
