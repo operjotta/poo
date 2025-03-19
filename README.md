@@ -15,7 +15,7 @@ Para executar estes código tem de ter pelo menos o JDK 17 instalado. Pode trans
 javac -d out -cp src src/dev/hangalito/poo/*.java
 ```
 
-Este comando irá compilar todas as classes Java no diretório [src/dev/hangalito/poo](./dev/hangalito/poo).
+Este comando irá compilar todas as classes Java no diretório [src/dev/hangalito/poo](./src/dev/hangalito/poo).
 Depois de compilar as classes poderá executá-las com o seguinte commando:
 
 ```sh
